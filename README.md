@@ -8,22 +8,14 @@
 
 ---
 
-## 📌 Descripción
+##  Descripción
 Este proyecto desarrolla un modelo de clasificación para el dataset **Iris**, aplicando un workflow completo de Minería de Datos:  
 entendimiento, preprocesamiento, entrenamiento, evaluación y visualización mediante un dashboard en **Streamlit**.
 
 ---
 
-## 📁 Archivos incluidos
+##  Archivos incluidos
 - `Proyect.py` → Aplicación interactiva en Streamlit  
 - `requirements.txt` → Dependencias del proyecto  
-- `VIDEO_SCRIPT.md` → Guion recomendado para la presentación  
+- `VIDEO_SCRIPT.md` → explicando el proyecto
 
----
-
-## ▶️ Cómo ejecutar el proyecto
-
-1. Crear un entorno virtual (opcional pero recomendado):
-
-```bash
-python -m venv venv
