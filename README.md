@@ -17,5 +17,4 @@ entendimiento, preprocesamiento, entrenamiento, evaluación y visualización med
 ##  Archivos utilizados
 - `Proyect.py` → Aplicación interactiva en Streamlit  
 - `requirements.txt` → Dependencias del proyecto  
-- `VIDEO_SCRIPT.md` → explicacion del proyecto
-
+- `VIDEO → explicacion del proyecto  https://youtu.be/WFI_OHfMHOM?si=-gUZnJDOcLcDdWES
